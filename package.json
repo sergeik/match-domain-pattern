@@ -28,6 +28,5 @@
     "validator": "^4.4.0"
   },
   "devDependencies": {
-    "mocha": "^2.3.4"
   }
 }
