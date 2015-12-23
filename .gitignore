@@ -1,4 +1,8 @@
 ### Node template
+
+# IDEA
+.idea/
+
 # Logs
 logs
 *.log
