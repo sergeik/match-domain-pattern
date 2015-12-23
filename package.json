@@ -1,0 +1,33 @@
+{
+  "name": "match-domain-pattern",
+  "version": "0.0.1",
+  "description": "Match domain pattern",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergeik/match-domain-pattern.git"
+  },
+  "keywords": [
+    "domain",
+    "match",
+    "pattern",
+    "url"
+  ],
+  "author": "Sergey Kolomiets",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sergeik/match-domain-pattern/issues"
+  },
+  "homepage": "https://github.com/sergeik/match-domain-pattern#readme",
+  "dependencies": {
+    "lodash": "^3.10.1",
+    "url": "^0.11.0",
+    "validator": "^4.4.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.3.4"
+  }
+}
