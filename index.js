@@ -3,15 +3,13 @@
  * @param template
  * @param url
  */
-(function(){
+(function () {
     var matchDomainPattern = {};
     var root = this;
 
     var _ = require('lodash');
     var validator = require('validator');
     var URL = require('url');
-
-
 
 
     /**
@@ -139,7 +137,6 @@
     }
     // included directly via <script> tag
     else {
-        root.matchDomainPattern= matchDomainPattern;
+        root.matchDomainPattern = matchDomainPattern;
     }
-
 })(this);

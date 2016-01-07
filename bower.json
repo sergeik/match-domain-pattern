@@ -1,0 +1,27 @@
+{
+  "name": "match-domain-pattern",
+  "description": "Match domain pattern",
+  "main": "index.js",
+  "authors": [
+    "Sergey Kolomiets"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "domain",
+    "match",
+    "pattern",
+    "url"
+  ],
+  "homepage": "https://github.com/sergeik/match-domain-pattern",
+  "moduleType": [
+    "globals",
+    "node"
+  ],
+  "private": true,
+  "ignore": [],
+  "dependencies": {
+    "lodash": "^3.10.1",
+    "url": "^0.11.0",
+    "validator": "^4.4.0"
+  }
+}
